@@ -1,0 +1,38 @@
+{
+  "name": "KBRA PC Cirebon",
+  "short_name": "KBRA PC Cirebon",
+  "start_url": "https://www.kbra-pccirebon.web.id",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Blog yang berisi foto Santri KBRA Cirebon.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-rDlB4Sn7Jm8/X26vPaA_bhI/AAAAAAAAAh8/8uV0RWnrHLsqLAC4UfjwIit7OrpGXkijQCLcBGAsYHQ/s48/KBRA%2BCirebon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rDlB4Sn7Jm8/X26vPaA_bhI/AAAAAAAAAh8/8uV0RWnrHLsqLAC4UfjwIit7OrpGXkijQCLcBGAsYHQ/s72/KBRA%2BCirebon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rDlB4Sn7Jm8/X26vPaA_bhI/AAAAAAAAAh8/8uV0RWnrHLsqLAC4UfjwIit7OrpGXkijQCLcBGAsYHQ/s96/KBRA%2BCirebon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rDlB4Sn7Jm8/X26vPaA_bhI/AAAAAAAAAh8/8uV0RWnrHLsqLAC4UfjwIit7OrpGXkijQCLcBGAsYHQ/s144/KBRA%2BCirebon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rDlB4Sn7Jm8/X26vPaA_bhI/AAAAAAAAAh8/8uV0RWnrHLsqLAC4UfjwIit7OrpGXkijQCLcBGAsYHQ/s168/KBRA%2BCirebon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rDlB4Sn7Jm8/X26vPaA_bhI/AAAAAAAAAh8/8uV0RWnrHLsqLAC4UfjwIit7OrpGXkijQCLcBGAsYHQ/s192/KBRA%2BCirebon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rDlB4Sn7Jm8/X26vPaA_bhI/AAAAAAAAAh8/8uV0RWnrHLsqLAC4UfjwIit7OrpGXkijQCLcBGAsYHQ/s512/KBRA%2BCirebon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
